@@ -16,7 +16,6 @@
 		F5893A8E222483E9002F1B63 /* PullToReachTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5893A8D222483E9002F1B63 /* PullToReachTests.swift */; };
 		F5893A99222483E9002F1B63 /* PullToReachUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5893A98222483E9002F1B63 /* PullToReachUITests.swift */; };
 		F5893AA722248539002F1B63 /* ActionMenu.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5893AA622248539002F1B63 /* ActionMenu.swift */; };
-		F5893AA922285ECB002F1B63 /* Enums.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5893AA822285ECB002F1B63 /* Enums.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -52,7 +51,6 @@
 		F5893A98222483E9002F1B63 /* PullToReachUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PullToReachUITests.swift; sourceTree = "<group>"; };
 		F5893A9A222483E9002F1B63 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F5893AA622248539002F1B63 /* ActionMenu.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActionMenu.swift; sourceTree = "<group>"; };
-		F5893AA822285ECB002F1B63 /* Enums.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Enums.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -111,7 +109,6 @@
 				F5893A81222483E8002F1B63 /* LaunchScreen.storyboard */,
 				F5893A84222483E8002F1B63 /* Info.plist */,
 				F5893A7C222483E6002F1B63 /* PullToReach.xcdatamodeld */,
-				F5893AA822285ECB002F1B63 /* Enums.swift */,
 			);
 			path = PullToReach;
 			sourceTree = "<group>";
@@ -267,7 +264,6 @@
 			files = (
 				F5893A78222483E6002F1B63 /* ViewController.swift in Sources */,
 				F5893A76222483E6002F1B63 /* AppDelegate.swift in Sources */,
-				F5893AA922285ECB002F1B63 /* Enums.swift in Sources */,
 				F5893AA722248539002F1B63 /* ActionMenu.swift in Sources */,
 				F5893A7E222483E6002F1B63 /* PullToReach.xcdatamodeld in Sources */,
 			);
